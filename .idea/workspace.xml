@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94e38df1-d190-4f80-a9a5-9d40bbc64ea2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/github-actions-demo.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/run-junit-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/demo/ExampleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/PlayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/accu/weather/ErrorUnauthorized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Casino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/DeckService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Gamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/PlayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/exception/DeckEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/type/Ranks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/type/Suits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/AssertionsDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/AssumptionsDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/ExampleLFDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/ParametrizedDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/home/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/home/MyGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/DeckServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/DeckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/GamePlayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/OurGameTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ZrSyJtHzIko4voPxrb1htFdZJx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Владислав/IdeaProjects/AutoTestsSeminar6"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Владислав\IdeaProjects\AutoTestsSeminar6" />
+      <recent name="C:\Users\Владислав\IdeaProjects\AutoTestsSeminar6\src\test\java" />
+      <recent name="C:\Users\Владислав\IdeaProjects\AutoTestsSeminar6\src\main\java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94e38df1-d190-4f80-a9a5-9d40bbc64ea2" name="Changes" comment="" />
+      <created>1703178958981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703178958981</updated>
+    </task>
+    <servers />
+  </component>
+</project>
