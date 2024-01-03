@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94e38df1-d190-4f80-a9a5-9d40bbc64ea2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/github-actions-demo.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/run-junit-test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/demo/ExampleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/PlayGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/accu/weather/ErrorUnauthorized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Casino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/DeckService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Gamer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/PlayGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/exception/DeckEmptyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/type/Ranks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/type/Suits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/AbstractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/AssertionsDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/AssumptionsDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/ExampleLFDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/ParametrizedDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/home/GameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/home/MyGameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/AbstractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/DeckServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/DeckTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/GamePlayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/GameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/OurGameTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="94e38df1-d190-4f80-a9a5-9d40bbc64ea2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,14 +26,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Владислав/IdeaProjects/AutoTestsSeminar6"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Владислав/IdeaProjects/AutoTestsSeminar6&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Владислав\IdeaProjects\AutoTestsSeminar6" />
@@ -90,5 +51,26 @@
       <updated>1703178958981</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="avtotests6" />
+    <option name="LAST_COMMIT_MESSAGE" value="avtotests6" />
   </component>
 </project>
